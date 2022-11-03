@@ -225,3 +225,9 @@ li{
 #cyber {
     height: 25em;
 }
+
+#submit {
+    background-color: #520152;
+    border: none;
+    color: #d9d6d6;
+}
