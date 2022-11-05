@@ -50,7 +50,7 @@ h4 {
 }
 .carousel-control.right, .carousel-control.left {
     background-image: none;
-    color: #520152;
+    color: #fff;
 }
 .carousel-indicators li {
     border-color: #520152;
