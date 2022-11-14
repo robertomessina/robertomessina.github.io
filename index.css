@@ -231,3 +231,25 @@ li{
     border: none;
     color: #d9d6d6;
 }
+
+.social:link {
+    color: white;
+}
+
+.social:visited, #creator:visited{
+    color: white;
+}
+
+.social:hover {
+    color: white;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.social:active {
+    color: white;
+}
+
+.social{
+    margin-right: 1em;
+}
