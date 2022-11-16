@@ -253,3 +253,8 @@ li{
 .social{
     margin-right: 1em;
 }
+
+#meIcon {
+    height: 18em;
+    filter: brightness(60%);
+}
