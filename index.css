@@ -9,14 +9,14 @@ h2 {
     text-transform: uppercase;
     color: antiquewhite;
     font-weight: 600;
-    margin-bottom: 1.875em;
+    margin-bottom: 1em;
 }
 h4 {
     font-size: 19px;
     line-height: 1.375em;
     color: antiquewhite;
     font-weight: 400;
-    margin-bottom: 30px;
+    margin-bottom: 0.5em;
 }
 .jumbotron {
     background-color: #520152;
@@ -257,4 +257,16 @@ li{
 #meIcon {
     height: 18em;
     filter: brightness(60%);
+}
+
+#compt3 {
+    margin-top: 2em;
+}
+
+#mesCompetences {
+    margin: 0 auto;
+}
+
+.portfolioImg {
+    border-radius: 0.5em;
 }
