@@ -53,10 +53,10 @@ h4 {
     color: #fff;
 }
 .carousel-indicators li {
-    border-color: #520152;
+    border-color: #fff;
 }
 .carousel-indicators li.active {
-    background-color: #520152;
+    background-color: #fff;
 }
 .item h4 {
     font-size: 1.1875em;
@@ -269,4 +269,13 @@ li{
 
 .portfolioImg {
     border-radius: 0.5em;
+}
+
+a:link, a:visited {
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+a:link:active, a:visited:active {
+    color: antiquewhite;
 }
