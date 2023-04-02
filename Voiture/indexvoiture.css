@@ -47,6 +47,7 @@ h3 {
 .brand-title,
 .brand-tagline {
     margin: 0;
+    background: rgb(60, 2, 72)
 }
 .brand-title {
     text-align: center;
@@ -178,7 +179,7 @@ h3 {
 
 /* width */
 ::-webkit-scrollbar {
-    display: none;
+    height: 0.5em;
 }
 
 
@@ -274,7 +275,3 @@ h3 {
     background-position-x: center;
 }
 
-
-.container::-webkit-scrollbar{
-    display: none;
-}
